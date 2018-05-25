@@ -1,0 +1,31 @@
+In This Project we Learn about validation in asp.net,
+we have 6 main points to cover.
+  1. RequiredFieldValidator
+  2. RangeValidator 
+  3. RegularExpressionValidator
+  4. CompareValidator
+  5. CustomValidator    
+  6. ValidationSummary 
+  
+in this project I have implemented :
+on name control : requiredfiledvaldator
+on pw and confirm pw : comparevalidator
+on mail : regualr expression validator
+on even : custom validator to check if number is even
+one age : range validator .
+
+aslo 
+a save button : to save data and disply it below in a label (later to be replaced by a DB connection).
+a reset button : to reset all controls using jquery.
+
+
+you may also find :
+a form called viewstate : to show that viewstate is used to retain value over the same form as the web is statless .
+a form called session : to  pass a value form one form to the other 
+a simple example about IsPostBack : which is false when the first time the page to be rendered ,the true if the page has been submitted .
+
+Study Links(venkate blog):
+http://csharp-video-tutorials.blogspot.com.eg/p/free-aspnet-video-tutorial.html
+
+videos 1 - 8 : basic asp.net concepts 
+videos 44 -50 : validation in asp.net
