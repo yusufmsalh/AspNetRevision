@@ -1,0 +1,7 @@
+c:\users\ysaleh\documents\visual studio 2015\Projects\OOPRev\OOPRev\bin\Debug\OOPRev.exe.config
+C:\Users\ysaleh\Documents\Visual Studio 2015\Projects\OOPRev\OOPRev\bin\Debug\OOPRev.exe
+C:\Users\ysaleh\Documents\Visual Studio 2015\Projects\OOPRev\OOPRev\bin\Debug\OOPRev.pdb
+C:\Users\ysaleh\Documents\Visual Studio 2015\Projects\OOPRev\OOPRev\obj\Debug\OOPRev.csproj.CoreCompileInputs.cache
+C:\Users\ysaleh\Documents\Visual Studio 2015\Projects\OOPRev\OOPRev\obj\Debug\OOPRev.exe
+C:\Users\ysaleh\Documents\Visual Studio 2015\Projects\OOPRev\OOPRev\obj\Debug\OOPRev.pdb
+C:\Users\ysaleh\Documents\Visual Studio 2015\Projects\OOPRev\OOPRev\obj\Debug\OOPRev.csprojResolveAssemblyReference.cache
