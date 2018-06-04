@@ -16,6 +16,7 @@ we may find examples on all validations Topics like
 *custom
 *validation summary
 *validation groups
+*Passing data using Viewstate ,SessionState ,QueryString, ApplicationState,Cookies. 
 ---------------------------------------------------------------------------------
 in Authentication and Authorization:
  -Anonymouse: anyone can view all pages.
