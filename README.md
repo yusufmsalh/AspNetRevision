@@ -1,30 +1,32 @@
-# AspNetRevision
-This me Trying to recap main concepts in Asp.net
-We mainly have 4 points to speak of :
- * Data Types : Generally Classified into two 
-  * Value Type.
-  * Reference Type.
-*Extra Point
-	*Object : is a ref type ,yet treaded as a value type if it contains a value type.
-	*var : casted as it's declartion.
+Hi there ,
+in this Repo I am trying to cover the main Concepts in Asp.net
 
+in Solution OOP :
+we may find some useful concepts about passing by value and passing by reference 
+as we have data types (by value ,by ref ) also we have obj and var.
+so what changes and what remains the same.
 
-  *Value Type : 
-   *Data Types that holds the actual value.
-   *are :
-		*All numberic data types.
-		*Dates ,chars.
-		*Enums
-		*Structs : even if it members are ref type.
+---------------------------------------------------------------------------------
+in Solution Validators :
+we may find examples on all validations Topics like 
+*required field 
+*comapre 
+*regular
+*range 
+*custom
+*validation summary
+*validation groups
+---------------------------------------------------------------------------------
+in Authentication and Authorization:
+ -Anonymouse: anyone can view all pages.
+ -Windows : a user may have the same access privilages as his windows /Domain Porvided - used in      interanet websites(within orgnization).
+ -Form : either static usernames in web config ,
+          or retrieve them for DB.
+*main point :
+1-a logged user may only view welcome.aspx page.
+2-any user may view register.aspx
+3-retrieve username from DB.
 
- *Ref Type:
-	*Data Types that holds a pointer to value.
-	*are
-		*Strings
-		*Classes
-		*delegets
-		*all arrays even if it's members are value type.
-
-
-feel free to use ,copy ,play with this code as you wish.
-  ur questions are always welcomed.
+-----------------------------------------------------------------------------
+ref : venkate
+http://csharp-video-tutorials.blogspot.com/p/free-aspnet-video-tutorial.html
